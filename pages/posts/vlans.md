@@ -1,6 +1,6 @@
 ---
 title: Intro to VLANs
-date: 2023/05/06
+date: 2023/05/04
 description: A brief introduction to VLANs and how to configure a switchport.
 tag: network engineering
 author: Nicholas Pasqualetti
