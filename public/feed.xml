@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nick Pasqualetti]]></title>
+        <description><![CDATA[Nick Pasqualetti]]></description>
+        <link>https://nickpasqualetti.dev</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 10 Mar 2024 00:29:18 GMT</lastBuildDate>
+        <atom:link href="https://nickpasqualetti.dev/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Intro to VLANs]]></title>
+            <description><![CDATA[A brief introduction to VLANs and how to configure a switchport.]]></description>
+            <link>/posts/vlans</link>
+            <guid isPermaLink="true">/posts/vlans</guid>
+            <category><![CDATA[network engineering]]></category>
+            <dc:creator><![CDATA[Nicholas Pasqualetti]]></dc:creator>
+            <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Intro to VTP]]></title>
+            <description><![CDATA[What is Virtual Trunking Protocol and what are the best practices when using it?]]></description>
+            <link>/posts/vtp</link>
+            <guid isPermaLink="true">/posts/vtp</guid>
+            <category><![CDATA[network engineering]]></category>
+            <dc:creator><![CDATA[Nicholas Pasqualetti]]></dc:creator>
+            <pubDate>Sat, 06 May 2023 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

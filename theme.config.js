@@ -24,5 +24,10 @@ export default {
       name: "Resume",
       newWindow: true,
     },
+    {
+      url: "https://github.com/npasqualetti",
+      name: "Github",
+      newWindow: true,
+    },
   ],
 };

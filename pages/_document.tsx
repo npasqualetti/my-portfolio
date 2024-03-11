@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: "Nick Pasqualetti's Blog",
     description:
-      "This is Nick Pasqualetti's software engineering blog. Feel free to clone this template to learn MDX with NextJS",
+      "This is Nick Pasqualetti's network, systems & software engineering blog. Feel free to clone this template to learn MDX with NextJS",
     image: "/favicon-32x32.png",
   };
 
