@@ -2,7 +2,7 @@
 Title: IPsec Point-to-Point VPNs
 Date: 2024/03/23
 Description: Explore the intricacies of IPsec Point-to-Point VPNs and their significance in modern networking.
-Tags: network security, VPN, IPsec
+Tag: network security, VPN, IPsec
 Author: Nicholas Pasqualetti
 ---
 
